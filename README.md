@@ -1,2 +1,2 @@
-# pd-files
-Collection of random Pure Data files.
+# Pure Data patches
+Random collection of my Pure Data patches.
